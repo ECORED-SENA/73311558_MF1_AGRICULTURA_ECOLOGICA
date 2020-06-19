@@ -3,83 +3,79 @@
     "letter": "B",
     "terms": [
       {
-        "title": "Bioseguridad",
-        "desciption": "Conjunto de medidas preventivas que tienen por objeto eliminar o minimizar el factor de riesgo biológico que pueda llegar a afectar la salud, el medio ambiente o la vida de las personas, asegurando que el desarrollo o producto final de dichos procedimientos no atenten contra la salud y seguridad de los trabajadores y comunidad en general."
-      },
-      {
-        "title": "Bolsa para traslado de cadáveres ",
-        "desciption": "Elemento de fácil abertura, cierre impermeable, diseñado para el traslado de cadáveres."
+        "title": "Buenas Prácticas Agrícolas (BPA)",
+        "desciption": "Conjunto de acciones realizadas con el fin de producir cultivos bajo parámetros de protección y conservación de los recursos naturales y manteniendo condiciones de bienestar para los trabajadores."
       }
     ]
   },
   {
-    "letter": "c",
+    "letter": "C",
     "terms": [
       {
-        "title": "Cadaver",
-        "desciption": "Cuerpo humano sin vida, cuyo deceso debe, para efectos jurídicos, estar certificado previamente a su inhumación o cremación por un médico o funcionario de salud competente."
+        "title": "Certificación Ecológica",
+        "desciption": "Constancia de que un cultivo ha sido planificado, producido, cosechado y poscosechado siguiendo acciones tendientes a la conservación y sostenibilidad del medio ambiente."
       }
     ]
   }, 
   {
-    "letter": "d",
+    "letter": "H",
     "terms": [
       {
-        "title": "Desinfección",
-        "desciption": "Eliminación de microorganismos de una superficie por medio de agentes químicos o físicos."
+        "title": "Híbridos",
+        "desciption": "Es un organismo vivo procedente de cruce de dos especies, los híbridos vegetales puede ser más productivos, pero su uso en agricultura ecológica está descartado."
       }
     ]
   },
   {
-    "letter": "E",
+    "letter": "I",
     "terms": [
       {
-        "title": "Embalar",
-        "desciption": "Disponer o colocar convenientemente dentro de cubiertas los cadáveres humanos que han de transportarse, utilizando los elementos necesarios para resguardar, facilitar su identificación, manipulación y garantizar la integridad de estos durante su transporte para el destino final o labores judiciales"
+        "title": "Impacto",
+        "desciption": "Son las consecuencias que sufre un recurso como causa de un uso determinado."
+      },
+      {
+        "title": "Inocuidad",
+        "desciption": "Palabra utilizada para describir un alimento que no representa ningún riesgo físico, químico o biológico para el consumidor."
       }
     ]
   },  
   {
-    "letter": "i",
+    "letter": "N",
     "terms": [
       {
-        "title": "Inspección Técnica a cadáver",
-        "desciption": "Examen externo que proporciona al investigador datos objetivos con respecto al EMP y EF más importante del lugar de los hechos, provee información detallada con respecto a características físicas del occiso, su relación con el lugar y circunstancias de la muerte; lo cual permite plantear las hipótesis de causa y manera del deceso. (definición específica para las autoridades judiciales)"
+        "title": "Normativa",
+        "desciption": "Es el conjunto de decretos, leyes o resoluciones por medio de las cuales se rige una determinada actividad."
       }
     ]
   },
   {
-    "letter": "L",
+    "letter": "O",
     "terms": [
       {
-        "title": "Limpieza",
-        "desciption": "Procedimiento mecánico que remueve el material extraño u orgánico de las superficies que puedan preservar bacterias al oponerse a la acción de biodegrabilidad de las soluciones antisépticas."
+        "title": "Organismos Genéticamente Modificados (OGM)",
+        "desciption": "Son organismos vivos intervenidos por el ser humano a través de la ingeniería genética para modificar sus características."
       }
     ]
   },    
   {
-    "letter": "M",
+    "letter": "S",
     "terms": [
       {
-        "title": "Material Contaminado",
-        "desciption": "Cualquier material o elemento que ha estado en contacto con microorganismos, que funcione como fómite o sea sospechoso de estar contaminado."
+        "title": "Sanidad",
+        "desciption": "En los vegetales se refiere a la condición de una mínima incidencia de plagas y enfermedades sobre un cultivo determinado."
       },
       {
-        "title": "Microorganismo",
-        "desciption": "Cualquier organismo vivo de tamaño microscópico, incluyendo bacterias, virus, levaduras, hongos, algunas algas y protozoos."
-      },
-      {
-        "title": "Minimización",
-        "desciption": "Racionalización y optimización de los procesos, procedimientos y actividades que permiten la reducción de los residuos generados y sus efectos, en el mismo lugar donde se producen." 
+        "title": "Sostenibilidad",
+        "desciption": "Es el equilibrio que se da cuando se establece un método de producción que hace uso racional de los recursos naturales, evitando la degradación y cualquier otro impacto negativo que sobre ellos se pueda generar."
       }
     ]
   },
   {
-    "letter": "n",
+    "letter": "T",
     "terms": [
       {
-        "title": "Normas de bioseguridad",
-        "desciption": "Normas de precaución que deben aplicar los trabajadores en áreas asistenciales al manipular sangre, secreciones, fluidos corporales o tejidos provenientes de todo paciente y sus respectivos recipientes, independiente de su estado de salud, y forman parte del programa de salud ocupacional"
+        "title": "Trazabilidad",
+        "desciption": "Es un proceso que a través del registro, permite identificar todas las actividades sucedidas en un proceso productivo desde la adquisición de la semilla hasta la transformación del producto final."
       }
     ]
   }
