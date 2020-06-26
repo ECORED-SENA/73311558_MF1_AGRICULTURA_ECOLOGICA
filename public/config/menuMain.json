@@ -4,19 +4,27 @@
     "slug": "external",
     "title": "Volver al Inicio",
     "path": "index.html"
-  },  
+  },
+  {
+    "id":0,
+    "icon": "fa fa-play-circle",
+    "slug": "introduccion",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/intro.html"
+  },
   { 
     "id": 1,
     "icon": "fa fa-file-text",
     "slug": "fundamentacion",
-    "title": "1. FUNDAMENTACIÓN",
+    "title": "1. Fundamentación",
     "breadcrumb": ["Inicio","Introducción"],
     "path": "pages/1-tema.html",    
     "submenu": [
       {
         "icon": "fa fa-file-text",
         "slug": "fundamentacion",
-        "title": "1.1 Definición.",
+        "title": "1.1 Definición",
         "anchor": "definicion"
       },   
       {
@@ -43,7 +51,7 @@
     "id": 2,
     "icon": "fa fa-file-text",
     "slug": "caracteristicas",
-    "title": "2. CARACTERÍSTICAS DE LA AGRICULTURA ECOLÓGICA",
+    "title": "2. Características de la agricultura ecológica",
     "breadcrumb": ["Inicio","Tema 1"],
     "path": "pages/2-tema.html",
     "submenu": [
@@ -95,18 +103,18 @@
     "id": 3,
     "icon": "fa fa-file-text",
     "slug": "impacto",
-    "title": "3. IMPACTO AMBIENTAL",
+    "title": "3. Impacto ambiental",
     "breadcrumb": ["Inicio","Tema 1"],
     "path": "pages/3-tema.html",
     "submenu": [
       {
-        "icon": "fa fa-file-text",
+        "icon": "fa fa-play-circle",
         "slug": "impacto",
         "title": "3.1 Concepto.",
         "anchor": "concepto"
       },
       {
-        "icon": "fa fa-file-text",
+        "icon": "fa fa-play-circle",
         "slug": "impacto",
         "title": "3.2 Métodos de Medición.",
         "anchor": "metodos"
@@ -123,7 +131,7 @@
     "id": 4,
     "icon": "fa fa-file-text",
     "slug": "buenas",
-    "title": "4. BUENAS PRÁCTICAS AGRÍCOLAS",
+    "title": "4. Buenas prácticas agrícolas",
     "breadcrumb": ["Inicio","Tema 1"],
     "path": "pages/4-tema.html",
     "submenu": [
@@ -169,7 +177,7 @@
     "id": 5,
     "icon": "fa fa-file-text",
     "slug": "normatividad",
-    "title": "5. NORMATIVIDAD PARA INSUMOS AGRÍCOLAS ECOLÓGICOS",
+    "title": "5. Normatividad para insumos agrícolas ecológicos",
     "breadcrumb": ["Inicio","Tema 1"],
     "path": "pages/5-tema.html",
     "submenu": [
@@ -209,7 +217,7 @@
     "id": 6,
     "icon": "fa fa-play-circle",
     "slug": "salud",
-    "title": "6. SALUD OCUPACIONAL, HIGIENE Y SEGURIDAD INDUSTRIAL.",
+    "title": "6. Salud ocupacional, Higiene y seguridad industrial",
     "breadcrumb": ["Inicio","Tema 1"],
     "path": "pages/6-tema.html"  
   },
@@ -217,7 +225,7 @@
     "id": 7,
     "icon": "fa fa-file-text",
     "slug": "certificacion",
-    "title": "7. CERTIFICACIÓN ECOLÓGICA",
+    "title": "7. Certificación ecológica",
     "breadcrumb": ["Inicio","Tema 1"],
     "path": "pages/7-tema.html",
     "submenu": [
@@ -245,7 +253,7 @@
     "id": 8,
     "icon": "fa fa-file-text",
     "slug": "estrategias",
-    "title": "8. ESTRATEGIAS DE COMERCIALIZACIÓN Y MERCADOS VERDES",
+    "title": "8. Estrategias de comercialización y mercados verdes",
     "breadcrumb": ["Inicio","Tema 1"],
     "path": "pages/8-tema.html",
     "submenu": [
