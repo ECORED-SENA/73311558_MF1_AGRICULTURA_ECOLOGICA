@@ -36,7 +36,7 @@
       {
         "icon": "fa fa-file-text",
         "slug": "fundamentacion",
-        "title": "1.3 Diferencia con otros Sistemas.",
+        "title": "1.3 Diferencia con otros sistemas",
         "anchor": "diferencia"
       },
       {
@@ -58,50 +58,50 @@
       {
         "icon": "fa fa-file-text",
         "slug": "caracteristicas",
-        "title": "2.1 Transición al Modelo Ecológico.",
+        "title": "2.1 Transición al modelo ecológico",
         "anchor": "transicion"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "caracteristicas",
-        "title": "2.2 Mejora Condiciones de Suelo, Agua, Aire, Plantas y Animales.",
+        "title": "2.2 Mejora condiciones de suelo, agua, aire, plantas y animales",
         "anchor": "mejora"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "caracteristicas",
-        "title": "2.3 Elección de Semillas y Plantas.",
+        "title": "2.3 Elección de semillas y plantas",
         "anchor": "eleccion"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "caracteristicas",
-        "title": "2.4 Mantenimiento y Aumento de la Vida y Fertilidad del Suelo.",
+        "title": "2.4 Mantenimiento y aumento de la vida y fertilidad del suelo",
         "anchor": "mantenimiento"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "caracteristicas",
-        "title": "2.5 Prevención de Daños por Plagas, Enfermedades y Arvenses.",
+        "title": "2.5 Prevención de daños por plagas, enfermedades y arvenses",
         "anchor": "prevencion"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "caracteristicas",
-        "title": "2.6 Producción de Alimentos Saludables y de Mayor Valor.",
+        "title": "2.6 Producción de alimentos saludables y de mayor valor",
         "anchor": "produccion"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "caracteristicas",
-        "title": "2.7 Bienestar para los Trabajadores de la Finca.",
+        "title": "2.7 Bienestar para los trabajadores de la finca",
         "anchor": "bienestar"
       }
     ]
   },
   { 
     "id": 3,
-    "icon": "fa fa-file-text",
+    "icon": "fa fa-play-circle",
     "slug": "impacto",
     "title": "3. Impacto ambiental",
     "breadcrumb": ["Inicio","Tema 1"],
@@ -110,19 +110,19 @@
       {
         "icon": "fa fa-play-circle",
         "slug": "impacto",
-        "title": "3.1 Concepto.",
+        "title": "3.1 Concepto",
         "anchor": "concepto"
       },
       {
         "icon": "fa fa-play-circle",
         "slug": "impacto",
-        "title": "3.2 Métodos de Medición.",
+        "title": "3.2 Métodos de medición",
         "anchor": "metodos"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "impacto",
-        "title": "3.3 Valoración del Impacto Ambiental.",
+        "title": "3.3 Valoración del impacto ambiental",
         "anchor": "valoracion"
       }
     ]
@@ -144,31 +144,31 @@
       {
         "icon": "fa fa-file-text",
         "slug": "buenas",
-        "title": "4.2 Inocuidad.",
+        "title": "4.2 Inocuidad",
         "anchor": "inocuidad"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "buenas",
-        "title": "4.3 Registros.",
+        "title": "4.3 Registros",
         "anchor": "registro"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "buenas",
-        "title": "4.4 Almacenamiento.",
+        "title": "4.4 Almacenamiento",
         "anchor": "almacenamiento"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "buenas",
-        "title": "4.5 Ingredientes activos.",
+        "title": "4.5 Ingredientes activos",
         "anchor": "ingredientes"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "buenas",
-        "title": "4.6 Zonificación.",
+        "title": "4.6 Zonificación",
         "anchor": "zonificacion"
       }
     ]
@@ -184,31 +184,31 @@
       {
         "icon": "fa fa-file-text",
         "slug": "normatividad",
-        "title": "5.1 Resolución 0150 de 2003.",
+        "title": "5.1 Resolución 0150 de 2003",
         "anchor": "0150"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "normatividad",
-        "title": "5.2 Resolución 0148 de 2004.",
+        "title": "5.2 Resolución 0148 de 2004",
         "anchor": "0148"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "normatividad",
-        "title": "5.3 Resolución 0187 de 2006.",
+        "title": "5.3 Resolución 0187 de 2006",
         "anchor": "0187"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "normatividad",
-        "title": "5.4 Resolución 0698 de 2011.",
+        "title": "5.4 Resolución 0698 de 2011",
         "anchor": "0698"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "normatividad",
-        "title": "5.5 Resolución 199 de 2016.",
+        "title": "5.5 Resolución 199 de 2016",
         "anchor": "199"
       }
     ]
@@ -232,19 +232,19 @@
       {
         "icon": "fa fa-file-text",
         "slug": "certificacion",
-        "title": "7.1 Procedimientos para Obtener la Certificación.",
+        "title": "7.1 Procedimientos para obtener la certificación",
         "anchor": "procedimientos"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "certificacion",
-        "title": "7.2. Organismos de control o certificadoras ecológicas en el país.",
+        "title": "7.2. Organismos de control o certificadoras ecológicas en el país",
         "anchor": "organismos"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "certificacion",
-        "title": "7.3 Entidades Certificadoras.",
+        "title": "7.3 Entidades certificadoras",
         "anchor": "entidades"
       }
     ]
@@ -260,7 +260,7 @@
       {
         "icon": "fa fa-file-text",
         "slug": "estrategias",
-        "title": "8.1 Mercados Verdes.",
+        "title": "8.1 Mercados verdes",
         "anchor": "mercados"
       },
       {
