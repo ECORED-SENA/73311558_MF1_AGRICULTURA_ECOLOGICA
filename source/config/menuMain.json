@@ -30,7 +30,7 @@
       {
         "icon": "fa fa-file-text",
         "slug": "fundamentacion",
-        "title": "1.2 Objetivos.",
+        "title": "1.2 Objetivos",
         "anchor": "objetivos"
       },
       {
@@ -138,7 +138,7 @@
       {
         "icon": "fa fa-file-text",
         "slug": "buenas",
-        "title": "4.1 Trazabilidad.",
+        "title": "4.1 Trazabilidad",
         "anchor": "trazabilidad"
       },
       {
@@ -217,7 +217,7 @@
     "id": 6,
     "icon": "fa fa-play-circle",
     "slug": "salud",
-    "title": "6. Salud ocupacional, Higiene y seguridad industrial",
+    "title": "6. Salud ocupacional, higiene y seguridad industrial",
     "breadcrumb": ["Inicio","Tema 1"],
     "path": "pages/6-tema.html"  
   },
@@ -266,7 +266,7 @@
       {
         "icon": "fa fa-file-text",
         "slug": "estrategias",
-        "title": "8.2 Programa Nacional de Agricultura Ecológica (PNAE)",
+        "title": "8.2 Programa nacional de agricultura ecológica (PNAE)",
         "anchor": "programa"
       }
     ]
