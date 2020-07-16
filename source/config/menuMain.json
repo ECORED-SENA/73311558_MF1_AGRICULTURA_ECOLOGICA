@@ -219,7 +219,27 @@
     "slug": "salud",
     "title": "6. Salud ocupacional, higiene y seguridad industrial",
     "breadcrumb": ["Inicio","Tema 1"],
-    "path": "pages/6-tema.html"  
+    "path": "pages/6-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "salud",
+        "title": "6.1 Salud ocupacional",
+        "anchor": "ocupacional"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "salud",
+        "title": "6.2 Higiene",
+        "anchor": "higiene"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "salud",
+        "title": "6.3 Seguridad industrial",
+        "anchor": "seguridad"
+      }
+    ]
   },
   { 
     "id": 7,

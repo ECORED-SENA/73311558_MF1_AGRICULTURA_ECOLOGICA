@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="356" height="418" viewBox="0 0 356 418">
+  <g id="Grupo_2568" data-name="Grupo 2568" transform="translate(-551 -209)">
+    <g id="Rectángulo_281" data-name="Rectángulo 281" transform="translate(551 261)" fill="#fff" stroke="#ddd" stroke-width="1">
+      <rect width="356" height="53" stroke="none"/>
+      <rect x="0.5" y="0.5" width="355" height="52" fill="none"/>
+    </g>
+    <g id="Trazado_18431" data-name="Trazado 18431" transform="translate(551 209)" fill="#fff">
+      <path d="M 355.5 52.5 L 0.5 52.5 L 0.5 4 C 0.5 2.070091009140015 2.070091009140015 0.5 4 0.5 L 352 0.5 C 353.9299011230469 0.5 355.5 2.070091009140015 355.5 4 L 355.5 52.5 Z" stroke="none"/>
+      <path d="M 4 1 C 2.34576416015625 1 1 2.345771789550781 1 4 L 1 52 L 355 52 L 355 4 C 355 2.345771789550781 353.6542358398438 1 352 1 L 4 1 M 4 0 L 352 0 C 354.2091369628906 0 356 1.790863037109375 356 4 L 356 53 L 0 53 L 0 4 C 0 1.790863037109375 1.790863037109375 0 4 0 Z" stroke="none" fill="#ddd"/>
+    </g>
+    <g id="Rectángulo_282" data-name="Rectángulo 282" transform="translate(551 313)" fill="#fff" stroke="#ddd" stroke-width="1">
+      <rect width="356" height="53" stroke="none"/>
+      <rect x="0.5" y="0.5" width="355" height="52" fill="none"/>
+    </g>
+    <g id="Rectángulo_283" data-name="Rectángulo 283" transform="translate(551 365)" fill="#fff" stroke="#ddd" stroke-width="1">
+      <rect width="356" height="53" stroke="none"/>
+      <rect x="0.5" y="0.5" width="355" height="52" fill="none"/>
+    </g>
+    <g id="Rectángulo_807" data-name="Rectángulo 807" transform="translate(551 469)" fill="#fff" stroke="#ddd" stroke-width="1">
+      <rect width="356" height="53" stroke="none"/>
+      <rect x="0.5" y="0.5" width="355" height="52" fill="none"/>
+    </g>
+    <g id="Rectángulo_284" data-name="Rectángulo 284" transform="translate(551 417)" fill="#fff" stroke="#ddd" stroke-width="1">
+      <path d="M0,0H356a0,0,0,0,1,0,0V49a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V0A0,0,0,0,1,0,0Z" stroke="none"/>
+      <path d="M1,.5H355a.5.5,0,0,1,.5.5V49a3.5,3.5,0,0,1-3.5,3.5H4A3.5,3.5,0,0,1,.5,49V1A.5.5,0,0,1,1,.5Z" fill="none"/>
+    </g>
+    <g id="Rectángulo_806" data-name="Rectángulo 806" transform="translate(551 521)" fill="#fff" stroke="#ddd" stroke-width="1">
+      <path d="M0,0H356a0,0,0,0,1,0,0V49a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V0A0,0,0,0,1,0,0Z" stroke="none"/>
+      <path d="M1,.5H355a.5.5,0,0,1,.5.5V49a3.5,3.5,0,0,1-3.5,3.5H4A3.5,3.5,0,0,1,.5,49V1A.5.5,0,0,1,1,.5Z" fill="none"/>
+    </g>
+    <g id="Rectángulo_808" data-name="Rectángulo 808" transform="translate(551 574)" fill="#fff" stroke="#ddd" stroke-width="1">
+      <path d="M0,0H356a0,0,0,0,1,0,0V49a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V0A0,0,0,0,1,0,0Z" stroke="none"/>
+      <path d="M1,.5H355a.5.5,0,0,1,.5.5V49a3.5,3.5,0,0,1-3.5,3.5H4A3.5,3.5,0,0,1,.5,49V1A.5.5,0,0,1,1,.5Z" fill="none"/>
+    </g>
+    <text id="BioTropico" transform="translate(571 241)" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">BioTropico</tspan></text>
+    <text id="CCI" transform="translate(571 293)" fill="#373a3c" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">CCI</tspan></text>
+    <text id="Cotecna" transform="translate(571 346)" fill="#373a3c" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Cotecna</tspan></text>
+    <text id="BCS_OKO_Garantie_Colombia" data-name="BCS OKO Garantie Colombia" transform="translate(571 398)" fill="#373a3c" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">BCS OKO Garantie Colombia</tspan></text>
+    <text id="ECOCERT_Colombia" data-name="ECOCERT Colombia" transform="translate(571 502)" fill="#373a3c" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">ECOCERT Colombia</tspan></text>
+    <text id="SGS_Colombia" data-name="SGS Colombia" transform="translate(571 450)" fill="#373a3c" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">SGS Colombia</tspan></text>
+    <text id="Control_Unión_Colombia" data-name="Control Unión Colombia" transform="translate(571 554)" fill="#373a3c" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Control Unión Colombia</tspan></text>
+    <text id="CERES_Colombia" data-name="CERES Colombia" transform="translate(571 607)" fill="#373a3c" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">CERES Colombia</tspan></text>
+  </g>
+</svg>
